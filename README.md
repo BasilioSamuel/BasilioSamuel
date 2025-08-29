@@ -16,7 +16,7 @@ Me chamo Samuel Basílio, tenho 21 anos e sou natural do Maranhão. Concluí o e
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/BasilioSamuel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/BasilioSamuel?tab=followers">
