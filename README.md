@@ -1,6 +1,6 @@
 # Samuel Basílio 🤓
 
-**'Desenvolvedor Backend'**
+**`Desenvolvedor Backend`**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
