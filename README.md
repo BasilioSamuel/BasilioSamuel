@@ -60,7 +60,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github.com/BasilioSamuel/" 
+    src="[https://github.com/BasilioSamuel/](https://github.com/BasilioSamuel)" 
   />
 
 <img 
