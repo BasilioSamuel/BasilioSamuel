@@ -79,6 +79,7 @@ Me chamo Samuel Basílio, tenho 21 anos e sou natural do Maranhão. Concluí o e
 
 <br/>
 <br/>
+<br/>
 
 ### 📊 Estatísticas
 
@@ -86,7 +87,7 @@ Me chamo Samuel Basílio, tenho 21 anos e sou natural do Maranhão. Concluí o e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="400" 
+    height="1000" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=BasilioSamuel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
